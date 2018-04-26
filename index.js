@@ -1,1 +1,2 @@
-function add(x += y);
+function add(x, y)
+console.log(x += y)
