@@ -13,4 +13,4 @@ function dec(n)
 { return n -= 1; }
 
 function makeInt(x, base)
-parseInt('x', 10)
+{ return parseInt(x, 10); }
