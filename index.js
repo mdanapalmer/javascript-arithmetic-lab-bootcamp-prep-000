@@ -8,5 +8,6 @@ function divide(x, y)
 { return x / y; }
 var inc = x
 
-var inc = n++
+var number = 5
+number++
 console.log(inc)
