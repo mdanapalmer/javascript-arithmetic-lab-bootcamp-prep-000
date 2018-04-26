@@ -6,5 +6,7 @@ function multiply(x, y)
 { return x * y; }
 function divide(x, y)
 { return x / y; }
-function inc(n) 
-{ return n += 4; }
+var inc = x
+
+function inc(x, y)
+{ return x+= y; }
