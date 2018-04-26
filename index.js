@@ -12,4 +12,5 @@ function inc(n)
 function dec(n)
 { return n -= 1; }
 
-function makeInt('x', y)
+function makeInt(x, y)
+parseInt('x', y)
