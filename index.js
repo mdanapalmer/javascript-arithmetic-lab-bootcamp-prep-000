@@ -9,4 +9,4 @@ function divide(x, y)
 var inc = x
 
 function inc(x, y)
-{ return x+= y; }
+{ return x++ y; }
