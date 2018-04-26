@@ -10,4 +10,5 @@ var inc = x
 
 var n = 5
 function inc(n)
-{ return n++; }
+console.log(n++)
+{ return n; }
