@@ -9,6 +9,5 @@ function divide(x, y)
 var inc = x
 
 var inc = n;
-function inc(n) {
-  return n++; }
-console.log(n)
+function inc(n) 
+ { return n + 1; }
