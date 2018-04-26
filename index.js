@@ -8,7 +8,5 @@ function divide(x, y)
 { return x / y; }
 var inc = x
 
-var n = 5
 function inc(n)
-console.log(n++)
-{ return n; }
+{ return n + 1; }
