@@ -11,4 +11,4 @@ var inc = x
 var inc = n;
 function inc(n) {
   return n++; }
-console.log(inc)
+console.log(n)
