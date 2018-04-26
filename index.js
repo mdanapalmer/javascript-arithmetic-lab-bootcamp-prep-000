@@ -9,4 +9,5 @@ function divide(x, y)
 var inc = x
 
 var n = number
-console.log(n)
+var number = n++
+console.log(number)
