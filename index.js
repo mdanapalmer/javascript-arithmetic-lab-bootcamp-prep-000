@@ -1,1 +1,1 @@
-x += y
+function add(x += y);
